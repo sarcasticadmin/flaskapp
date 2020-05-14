@@ -1,6 +1,6 @@
 import unittest
 
-import hit
+import sampleflask.hit as hit
 
 class TestHit(unittest.TestCase):
     def test_getServerHitCount(self):

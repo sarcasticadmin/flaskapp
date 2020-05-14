@@ -1,5 +1,5 @@
 import unittest
-import utils
+import sampleflask.utils as utils
 import socket
 
 class TestUtils(unittest.TestCase):
