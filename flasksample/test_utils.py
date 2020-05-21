@@ -1,5 +1,5 @@
 import unittest
-import sampleflask.utils as utils
+import flasksample.utils as utils
 import socket
 
 class TestUtils(unittest.TestCase):

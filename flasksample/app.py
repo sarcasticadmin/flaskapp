@@ -3,8 +3,8 @@ from flask import request
 from flask import jsonify
 import datetime
 
-import sampleflask.utils as utils
-import sampleflask.hit as hit
+import flasksample.utils as utils
+import flasksample.hit as hit
 
 
 startTime = datetime.datetime.now().strftime("%Y-%b-%d %H:%M:%S")
